@@ -29,6 +29,11 @@ oy = {
     "sayyora_haqida": "Oy qizil sayyora"
 }
 
+venera = {"sayyora_nomi": "venera",
+    "sayyora_joylashuvi": "10-o'rinda",
+    "sayyora_haqida": "Oy qizil sayyora" 
+    }
+
 sayyoralar = [yer, mars, uran, yupiter, oy]
 
 # print(sayyoralar)
