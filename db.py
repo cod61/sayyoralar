@@ -20,18 +20,18 @@ uran = {
 yupiter = {
     "sayyora_nomi": "Yupiter",
     "sayyora_joylashuvi": "5-o'rinda",
-    "sayyora_haqida": "Yupiter qizil sayyora"
+    "sayyora_haqida": "Yupiter katta sayyora"
 }
 
 oy = {
     "sayyora_nomi": "Oy",
     "sayyora_joylashuvi": "7-o'rinda",
-    "sayyora_haqida": "Oy qizil sayyora"
+    "sayyora_haqida": "Oy yerning yoldoshi"
 }
 
 venera = {"sayyora_nomi": "venera",
     "sayyora_joylashuvi": "10-o'rinda",
-    "sayyora_haqida": "Oy qizil sayyora" 
+    "sayyora_haqida": "venera kichik sayyora" 
     }
 
 sayyoralar = [yer, mars, uran, yupiter, oy]
